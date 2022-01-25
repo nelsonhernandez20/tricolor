@@ -1,0 +1,43 @@
+body{
+
+	background-image: url(font_final.jpg)  !important;
+	color: #FFFFFF !important;
+
+}
+
+input[type="text"], input[type="submit"],input[type="date"], input[type="password"]{
+	
+	margin-top:5px;
+	margin-bottom:15px;
+	display:block;
+	background: transparent;
+	color: #FFFFFF;
+}
+
+h1{
+
+	text-align:center;
+
+}
+
+img{
+
+	border-radius:30px;
+
+}
+
+table tr td{
+	
+	background: transparent;
+	color: #FFFFFF;
+    border: 1px solid #FFFFFF;
+
+}
+
+h2{
+
+	font-size: 30px;
+	color: blue;
+}
+
+
